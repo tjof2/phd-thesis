@@ -6,12 +6,6 @@ My PhD thesis on work undertaken at the University of Cambridge between October
 
 **Supervisors:** [Prof. Paul Midgley](https://www.msm.cam.ac.uk/people/midgley) and [Dr. Paul Bristowe](https://www.msm.cam.ac.uk/people/bristowe)
 
-### Timeline
-**Submitted**: 27 February 2017<br>
-**Viva:** 21 September 2017<br>
-**Corrections:** X December 2017<br>
-**Graduated:** TBC
-
 ### Abstract
 Developments in scanning transmission electron microscopy (STEM) have opened up
 new possibilities for time-resolved imaging at the atomic scale. However, rapid
