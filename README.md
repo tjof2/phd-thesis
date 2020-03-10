@@ -8,7 +8,7 @@ My PhD thesis on work undertaken at the University of Cambridge between October
 
 ### Citing
 
-> Furnival, T. (2017) *Single atom imaging with time-resolved electron microscopy* (Doctoral thesis). DOI: [10.17863/CAM.17164](https://doi.org/10.17863/CAM.17164)
+> Furnival, T. (2017) *Single atom imaging with time-resolved electron microscopy* (Doctoral thesis). DOI:[10.17863/CAM.17164](https://doi.org/10.17863/CAM.17164)
 
 ### Abstract
 Developments in scanning transmission electron microscopy (STEM) have opened up
